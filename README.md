@@ -2,7 +2,7 @@
 
 Hello,  welcome to the Maze Game.
 
-This project implements a complete maze game from scratch.\
+This project implements a complete maze game from scratch using JAVA language.\
 The project consists of three parts: A,B,C.
 
 ### Part A
