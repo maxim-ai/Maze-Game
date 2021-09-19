@@ -1,7 +1,8 @@
 # Maze Game
 
-Hello,  welcome to Maze Game.
+Hello,  welcome to the Maze Game.
 
+This project implements a complete maze game from scratch.\
 The project consists of three parts: A,B,C.
 
 ### Part A
