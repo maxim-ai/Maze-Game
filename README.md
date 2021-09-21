@@ -2,12 +2,12 @@
 
 Hello,  welcome to the Maze Game.
 
-This project implements a complete maze game from scratch using JAVA language.\
+This project is a complete maze game from scratch.\
 The project consists of three parts: A,B,C.
 
 ### Part A
-- Implements Kruskal and Prim maze generation algorithms.
-- Implements BFS, DFS, Best first search algorithms to solve the maze.
+- Implemented Kruskal and Prim maze generation algorithms.
+- Implemented BFS, DFS, Best first search algorithms to solve the maze.
 
 ### Part B
 - Maze compression using serialization.
